@@ -1,0 +1,10 @@
+data/input_images/*
+data/output/*
+
+# allow small samples
+!data/input_images/sample.*
+!data/output/sample.*
+data/
+venv/
+__pycache__/
+*.pyc
