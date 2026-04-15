@@ -111,10 +111,10 @@ Improves prediction quality using:
 
 | Feature              | IoU Score |
 | -------------------- | --------- |
-| 🏢 Buildings         | ~81%      |
+| 🏢 Buildings         | ~79%      |
 | 🛣️ Roads            | ~79%      |
-| 🌊 Water Bodies      | ~82%      |
-| 🌊 Water Lines       | ~82%      |
+| 🌊 Water Bodies      | ~80%      |
+| 🌊 Water Lines       | ~80%      |
 | 🛣️ Road Centerlines | ~64%      |
 
 ---
